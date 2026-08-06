@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
+| [1929-concatenation-of-array](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3536-maximum-product-of-two-digits) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
