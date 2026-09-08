@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
