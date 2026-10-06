@@ -3,21 +3,21 @@ class Solution:
 
 
     def minAddToMakeValid(self, s: str) -> int:
-        stack = []
+        open_c = 0 
         count = 0 
 
 
         for i in s:
-            if i == '(' or i == '{' or i == '[':
-                stack.append(i)
+            if i == '(' :
+                open_c+=1
             else:
+                if open_c>0:
+                    open_c -=1
 
-                if not stack:
-                    count+=1
                 
                 else:
-                    stack.pop()
-        return count + len(stack)
+                    count+=1
+        return count + open_c
 
         
         
