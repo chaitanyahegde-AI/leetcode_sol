@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2784-check-if-array-is-good) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
 | [2784-check-if-array-is-good](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3536-maximum-product-of-two-digits) |
