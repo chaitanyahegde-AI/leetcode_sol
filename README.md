@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0018-4sum) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
