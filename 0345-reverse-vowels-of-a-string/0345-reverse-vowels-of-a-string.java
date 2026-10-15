@@ -4,12 +4,15 @@ class Solution {
 
         int j = s.length() - 1;
         char[] a =  s.toCharArray();
-        String v = "aeiouAEIOU";
+        Set<Character> v = Set.of(
+            'a', 'e', 'i', 'o', 'u',
+            'A', 'E', 'I', 'O', 'U'
+        );
         char temp ;
 
 
         while(i < j){
-                if(v.indexOf(a[i])!=-1 && v.indexOf(a[j])!=-1){
+                if(v.contains(a[i]) && v.contains(a[j])){
                         temp = a[i];
                         a[i] = a[j];
                         a[j] = temp ;
@@ -17,10 +20,10 @@ class Solution {
                         j--;
 
                 }
-                else if(v.indexOf(a[i])==-1){
+                else if(!v.contains(a[i])){
                     i++;
                 }
-                else if(v.indexOf(a[j])==-1){
+                else if(!v.contains(a[j])){
                     j--;
 
                 }
