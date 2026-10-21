@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1929-concatenation-of-array](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2784-check-if-array-is-good) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2784-check-if-array-is-good](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/3536-maximum-product-of-two-digits) |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
