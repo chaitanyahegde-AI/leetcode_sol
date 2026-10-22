@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
+| [1014-best-sightseeing-pair](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1014-best-sightseeing-pair) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1929-concatenation-of-array](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2784-check-if-array-is-good) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1014-best-sightseeing-pair](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1014-best-sightseeing-pair) |
 <!---LeetCode Topics End-->
