@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-best-sightseeing-pair](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/1014-best-sightseeing-pair) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/chaitanyahegde-AI/leetcode_sol/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
